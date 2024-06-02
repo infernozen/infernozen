@@ -89,5 +89,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=infernozen&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-#### profile
