@@ -78,14 +78,13 @@
 
 ###
 
-<h2 align="left">My Contributions and Streak</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/infernozen/infernozen/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Sneak Peak</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=infernozen&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infernozen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=infernozen&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
