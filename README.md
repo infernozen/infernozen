@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">Sneak Peak</h2>
+<h2 align="left">Contributions</h2>
 
 ###
 
