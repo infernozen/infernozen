@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">Contributions</h2>
+<h2 align="left">Contribution Stats</h2>
 
 ###
 
